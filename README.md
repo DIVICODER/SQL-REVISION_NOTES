@@ -4,19 +4,33 @@ Welcome to the SQL Notes Repository! 🚀 This repository is a comprehensive col
 Table of Contents
 
 1.Introduction
+
 2.Getting Started
+
 3.Prerequisites
+
 4.Installation
+
 5.Database Creation
+
 6.SQL Queries
+
 7.Table Management
+
 8.Views
+
 9.Operators and Clauses
+
 10.Joins
+
 11.Keys
+
 12.Indexes
+
 13.Advanced Concepts
+
 14.Contributing
+
 15.License
 
 Introduction
