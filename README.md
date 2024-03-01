@@ -3,34 +3,31 @@ Welcome to the SQL Notes Repository! 🚀 This repository is a comprehensive col
 
 Table of Contents
 
-Introduction
-Getting Started
-Prerequisites
-Installation
-Database Creation
-SQL Queries
-Table Management
-Views
-Operators and Clauses
-Joins
-Keys
-Indexes
-Advanced Concepts
-Contributing
-License
+1.Introduction
+2.Getting Started
+3.Prerequisites
+4.Installation
+5.Database Creation
+6.SQL Queries
+7.Table Management
+8.Views
+9.Operators and Clauses
+10.Joins
+11.Keys
+12.Indexes
+13.Advanced Concepts
+14.Contributing
+15.License
+
 Introduction
 This repository is dedicated to mastering SQL concepts and techniques. The notes provided are structured to cover everything from the basics to advanced topics, making it a comprehensive resource for SQL enthusiasts.
 
 Getting Started
+
 Prerequisites
 Basic understanding of databases and relational concepts.
 SQL database management system installed (e.g., MySQL, PostgreSQL, SQLite).
-Installation
-Clone this repository to your local machine to access all the notes:
 
-bash
-Copy code
-git clone https://github.com/your-username/sql-mastery.git
 Database Creation
 Learn how to create a SQL database from scratch and understand the fundamental concepts of database design.
 
